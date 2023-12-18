@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0;
+    line-height: 1.6;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+header,footer{
+    text-align: center;
+    background-color: rgb(203, 64, 138);
+    color:white;
+    padding: 20px;
+
+}
+section{
+    padding: 20px;
+    margin: 40px;
+    border-radius: 8px;
+    background-color: rgb(113, 176, 226);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}

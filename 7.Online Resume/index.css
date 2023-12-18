@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+    line-height: 1.2;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+header{
+    background-color: rgb(127, 7, 93);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+h2{
+    color: rgb(11, 132, 184);;
+}
+footer{
+    background-color:  rgb(127, 7, 93);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+section{
+    background-color: rgb(213, 222, 219);
+    border-radius: 8px;
+
+    margin:10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 8px;
+}
